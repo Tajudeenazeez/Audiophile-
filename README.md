@@ -15,3 +15,13 @@
 #### When assigned with a ticket, and you have started working on it, you are to move the ticket to ``in progress``.
 #### When you are done with the tickect, move it from ``in porgress`` to ``done``, attach the PR link and live link if possible to such ticket for testing and review sake. The PM will comment on it when done reviewing and testing.
 #### If the duration of a ticket expires before you are done, it is expected of you to request for addition time of not more than ``24 hours`` with a cogent reason.
+
+## Project Folder Structure ##
+   
+  ### Files ###
+  -- ``config.js``: This file contains middlewares, base urls, and other endpoints that will be consumed
+  -- 
+
+  ### Folders ###
+   -- ``__test__`` contains test files for the application.
+   
