@@ -1,14 +1,16 @@
-# Documentation for the AUDIOPHILE Project.
+# Welcome to AUDIOPHILE Project.
 
-## Contributing to this project.
+## *Contributing to this project*.
+
+#### <please carefully read all the instructions before you start contributing to the project>.
 
 ## Clone
 
-#### 1. clone the repo to your local machine and pull to update **git clone**
+#### 1. clone the repo to your local machine and pull to update ``git clone``
 
-#### 2. Update all the dependencies with git install
+#### 2. Update all the dependencies with ``git install``
 
-#### 3. Ensure to do git pull **git pull**
+#### 3. Ensure to do git pull ``git pull``
 
 #### switch to another branch by following the branch naming convention stated below.
 
