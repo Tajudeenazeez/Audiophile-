@@ -2,7 +2,7 @@
 
 ## *Contributing to this project*.
 
-#### <please carefully read all the instructions before you start contributing to the project>.
+#### please carefully read all the instructions before you start contributing to the project.
 
 ## Clone
 
