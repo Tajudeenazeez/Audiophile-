@@ -1,0 +1,54 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "category":"headphones",
+            "productName": "XX59 Headphones",
+            "image": "../assets/images/XX59 Headphones.png"
+        },
+        {
+            "id": 2,
+            "category":"headphones",
+            "productName": "XX99 Mark I Headphones",
+            "image": "../assets/images/XX99 Mark I Headphones.png"
+        },
+        {
+            "id": 3,
+            "category":"headphones",
+            "productName": "XX99 Mark I Headphones",
+            "image": "../assets/images/XX99 Mark I Headphones.png"
+        },
+        {
+            "id": 4,
+            "category":"earphones",
+            "productName": "YX1 EARPHONES",
+            "image" : "../assets/images/YX1 EARPHONES.png"
+        }
+        ,
+        {
+            "id": 5,
+            "category":"earphones",
+            "productName": "YX1 WIRELESS EARPHONES",
+            "image" : "../assets/images/YX1 WIRELESS EARPHONES.png"
+        }
+        ,
+        {
+            "id": 6,
+            "category":"speakers",
+            "productName": "ZX7 SPEAKER",
+            "image" : "../assets/images/ZX7 SPEAKER.png"
+        },
+        {
+            "id": 7,
+            "category":"speakers",
+            "productName": "ZX8 SPEAKER",
+            "image" : "../assets/images/ZX8 SPEAKER.png"
+        },
+        {
+            "id": 8,
+            "category":"speakers",
+            "productName": "ZX9 SPEAKER",
+            "image" : "../assets/images/ZX9 SPEAKER.png"
+        }
+    ]
+}
