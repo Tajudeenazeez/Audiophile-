@@ -50,5 +50,12 @@
             "productName": "ZX9 SPEAKER",
             "image" : "../assets/images/ZX9 SPEAKER.png"
         }
+        ,
+        {
+            "id": 9,
+            "category":"speakers",
+            "productName": "ZX9 SPEAKER",
+            "image" : "../assets/images/ZX9 SPEAKER.png"
+        }
     ]
 }

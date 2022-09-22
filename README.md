@@ -69,7 +69,16 @@
    
   ### Files ###
   -- ``config.js``: This file contains middlewares, base urls, and other endpoints that will be consumed
-  -- 
+  --  `` data.json`` : This is a mimick API file listing all products details and path to the product image.
+  #### structure ####
+      ````
+          {
+            "id": 1,
+            "category":"headphones",
+            "productName": "XX59 Headphones",
+            "image": "../assets/images/XX59 Headphones.png"
+        }
+      ````
 
   ### Folders ###
    -- ``__test__`` contains test files for the application.
