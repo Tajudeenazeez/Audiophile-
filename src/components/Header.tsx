@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import {FaShoppingCart} from 'react-icons/fa'
+import {FiShoppingCart} from 'react-icons/fi'
 
 
 const Header = () => {
@@ -9,12 +9,12 @@ const Header = () => {
       <div className='flex  justify-evenly items-center bg-black text-white h-[97px] border-b-2 border-white'>
         <Link className ='font-black text-lg' to= '/'>audiophile</Link>
         <div className="w-[429px] flex justify-evenly  uppercase text-[13px]">
-          <Link to= '/'>home</Link>
-          <Link to= '/headphone'>headphones</Link>
-          <Link to= '/speaker'>speakers</Link>
-          <Link to= '/earphone'>earphones</Link>
+          <Link className='hover:text-orange-600' to= '/'>home</Link>
+          <Link className='hover:text-orange-600' to= '/headphone'>headphones</Link>
+          <Link className='hover:text-orange-600' to= '/speaker'>speakers</Link>
+          <Link className='hover:text-orange-600' to= '/earphone'>earphones</Link>
         </div>
-        <FaShoppingCart/>
+        <FiShoppingCart className='hover:text-orange-600'/>
       </div>
     </>
   )
