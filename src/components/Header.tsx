@@ -6,7 +6,7 @@ import {FiShoppingCart} from 'react-icons/fi'
 const Header = () => {
   return (
     <>
-      <div className='flex  justify-evenly items-center bg-black text-white h-[97px] border-b-2 border-white'>
+      <div className='flex  justify-evenly items-center bg-black text-white h-[97px] relative after:absolute after:bottom-px after:border-b-[1px] after:border-gray-800 after:h-0 after:w-[85%] after:mx-auto'>
         <Link className ='font-black text-lg' to= '/'>audiophile</Link>
         <div className="w-[429px] flex justify-evenly  uppercase text-[13px]">
           <Link className='hover:text-orange-600' to= '/'>home</Link>
@@ -21,3 +21,4 @@ const Header = () => {
 }
 
 export default Header
+
